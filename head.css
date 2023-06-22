@@ -134,4 +134,5 @@
     width: 100%;
     background-color: red;
     display: none;
+     transition: height 1s;
 }
